@@ -1,0 +1,6 @@
+{
+    "appSecret": "<APP_SECRET>",
+    "pageAccessToken": "<PAGE_ACCESS_TOKEN>",
+    "validationToken": "TOKEN",
+    "serverURL": "to_be_set_manually"
+}
